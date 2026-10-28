@@ -1,0 +1,21 @@
+[submodule "core"]
+	path = core
+	url = ../m9b-core.git
+[submodule "doom"]
+	path = doom
+	url = ../m9b-doom.git
+[submodule "descent"]
+	path = descent
+	url = ../m9b-descent.git
+[submodule "tyrian"]
+	path = tyrian
+	url = ../m9b-tyrian.git
+[submodule "sshock"]
+	path = sshock
+	url = ../m9b-sshock.git
+[submodule "exult"]
+	path = exult
+	url = ../m9b-exult.git
+[submodule "u7"]
+	path = u7
+	url = ../m9b-u7.git
